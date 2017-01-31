@@ -1,7 +1,6 @@
 # bot-education-ocrbot
 A Node.js bot built with the MS Bot Framework for image OCR during Bot Workshop on Jan 31 
-- My first time with node.js 
-- PS
+- My first time with node.js : Parashar
 
 Chat room for this repo/talk:  [on gitter](https://gitter.im/analytics-at-ms/conf-bots?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
